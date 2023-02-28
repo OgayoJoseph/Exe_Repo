@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* BODY */
+.body {
+  font-family: sans-serif;
+}
+
+.container {
+  width: 1000px;
+  margin: 50px 100px;
+  justify-content: center;
+}
+
+.article-intro {
+  display: flex;
+}
+
+/* TITLES */
+
+.article-title1 {
+}
+.article-title2 {
+}
+.article-title3 {
+}
+
+/* LISTS */
+
+.list-one {
+  display: flex;
+}
+.list-two {
+}
+.list-three {
+}
+
+/* IMAGES */
+.img-list-one {
+  padding-right: 20px;
+}
+.img-list-two {
+}
+.img-list-three {
+}
